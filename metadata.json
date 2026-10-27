@@ -1,0 +1,6 @@
+{
+  "name": "Spooky Story Forge & Halloween Suite",
+  "description": "Atmospheric Halloween story generator, fear-level calibrated horror tales, realistic templates, sound effects, and Halloween toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
